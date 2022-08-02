@@ -1,4 +1,5 @@
-# Quran Python App
+# Quran Python 
+## Video Demo:  https://youtu.be/56zYQeYQ0gw
 This is a quran app that takes the number of surah and the number of ayah then it displays it with the option of hearing the recitation of the ayah.
 
 The app uses python tkinter library to make the gui and uses two different quran api, one for getting the script or the arabic written form of the verse and the other one for the recitation.
